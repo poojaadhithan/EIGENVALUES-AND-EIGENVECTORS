@@ -11,9 +11,10 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 4: display the eigenvalues and the eigenvectors.
 
 ## Program:
-#Program to find the eigen values and eigen vectors.
-#Developed by: POOJA A
-#RegisterNumber: 212225040300
+
+'''Program to find the eigen values and eigen vectors.
+Developed by: POOJA A
+RegisterNumber: 212225040300'''
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
